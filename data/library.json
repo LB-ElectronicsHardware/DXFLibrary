@@ -1,0 +1,14 @@
+[
+  {
+    "file": "example_logo.dxf",
+    "category": "Company Logos",
+    "name": "Example Logo",
+    "tags": ["brand", "demo"]
+  },
+  {
+    "file": "esd_symbol_01.dxf",
+    "category": "ESD Symbols",
+    "name": "ESD Symbol 01",
+    "tags": ["esd"]
+  }
+]
