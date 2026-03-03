@@ -2,13 +2,31 @@
   {
     "file": "example_logo.dxf",
     "category": "Company Logos",
-    "name": "Example Logo",
-    "tags": ["brand", "demo"]
+    "name": "Analox Logo",
+    "tags": ["brand", "analox"]
+  },
+  {
+    "file": "sd_front.dxf",
+    "category": "SD Card",
+    "name": "SD Card Front",
+    "tags": ["io"]
+  },
+  {
+    "file": "sd_back_1.dxf",
+    "category": "SD Card",
+    "name": "SD Card Back 1",
+    "tags": ["io"]
+  },
+  {
+    "file": "sd_back_2.dxf",
+    "category": "SD Card",
+    "name": "SD Card Back 2",
+    "tags": ["io"]
   },
   {
     "file": "esd_symbol_01.dxf",
     "category": "ESD Symbols",
-    "name": "ESD Symbol 01",
+    "name": "ESD Symbol",
     "tags": ["esd"]
   }
 ]
