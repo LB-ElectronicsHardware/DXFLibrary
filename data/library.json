@@ -27,7 +27,7 @@
     "file": "DC_Symbol.dxf",
     "category": "Power",
     "name": "DC Symbol",
-    "tags": ["io", "power"]
+    "tags": ["io"]
   },
   {
     "file": "esd_symbol_01.dxf",
